@@ -242,15 +242,7 @@
  "idx": 1,
  "is_submittable": 1,
  "links": [],
-<<<<<<< HEAD
-<<<<<<< HEAD
- "modified": "2024-02-06 13:06:59.579135",
-=======
- "modified": "2024-11-21 18:02:55.785057",
->>>>>>> 5e5332404 (fix: removed "fetch from" setting on letter head in salary structure doctype, to make it editable, set the company defualt letter head using form script instead)
-=======
  "modified": "2024-11-22 11:17:28.384386",
->>>>>>> 18dc6fc4a (fix: added "fetch from company default letter head" back, with "fetch if empty" to make the field editable, intead of using form script to set the value)
  "modified_by": "Administrator",
  "module": "Payroll",
  "name": "Salary Structure",
